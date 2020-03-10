@@ -10,10 +10,10 @@ Apuntes con modificaciones realizadas por **[Julio de la Matta Cadenas](https://
 
 ---
 ## Índice:
----
-- ### [Unidad 1: Arquitecturas web](unidad1.md)
-- ### [Unidad 2: Servidores web](unidad2.md)
-- ### [Unidad 3: Servidores de aplicaciones](unidad3.md)
-- ### [Unidad 4: Servidores de transferencia de archivos](unidad4.md)
-- ### [Unidad 5: Parámetros de red](unidad5.md)
-- ### [Unidad 6: Documentación y Control de versiones](unidad6.md)
+
+- ### [🏗 Unidad 1: Arquitecturas web](unidad1.md)
+- ### [🖥 Unidad 2: Servidores web](unidad2.md)
+- ### [📱 Unidad 3: Servidores de aplicaciones](unidad3.md)
+- ### [🗂 Unidad 4: Servidores de transferencia de archivos](unidad4.md)
+- ### [🌐 Unidad 5: Parámetros de red](unidad5.md)
+- ### [📖 Unidad 6: Documentación y Control de versiones](unidad6.md)
