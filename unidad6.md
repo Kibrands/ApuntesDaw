@@ -1,4 +1,4 @@
-## Unidad 6: Documentación y Control de versiones
+# Unidad 6: Documentación y Control de versiones
 
 ## Índice
 --- 
@@ -94,7 +94,6 @@ Como dijo Grace Hopper:
 
 ### Código fuente
 
-<pre>
 ```javascript
 var s = "Lenguaje javascript. Se realizará coloreado de sintaxis.";
 alert(s); 
@@ -108,7 +107,6 @@ print s
 ```
 No se indica lenguaje. No se realizará coloreado de sintaxis. 
 ```
-</pre>
 
 
 ### Menciones y Referencias

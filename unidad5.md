@@ -1,4 +1,4 @@
-## Unidad 5: Parámetros de red
+# Unidad 5: Parámetros de red
 
 ## Índice
 --- 
@@ -35,7 +35,7 @@
 
 - Hace uso de una **base de datos distribuida** con información sobre equipos (hosts).
 - En los inicios de internet la información estaba centralizada.
-  - Para ello se utilizaba un archivo **HOST.TXT**.
+  - Para ello se utilizaba un archivo **HOSTS.TXT**.
   - Estaba alojado en el Stanford Research Institute.
 
 - [Archivo hosts](https://es.wikipedia.org/wiki/Archivo_hosts)
