@@ -25,31 +25,44 @@
 
 ```markdown
 # Esto es una cabecera de nivel 1
-## Esto es una cabecera de nivel 1
+## Esto es una cabecera de nivel 2
 ###### Esto es una cabecera de nivel 6
 ```
-
 
 ### Listas sin orden
 
 ```markdown
-* Item 1
-* Item 2
- * Item 2a
- * Item 2b
++ Item 1
++ Item 2
+ + Item 2a
+ + Item 2b
 ```
+
+---
++ Item 1
++ Item 2
+    + Item 2a
+    + Item 2b
+---
 
 
 ### Lista con orden
 
 ```markdown
 1. Item 1
-2. Item 2
-3. Item 3
- * Item 3a
- * Item 3b
+1. Item 2
+1. Item 3
+ + Item 3a
+ + Item 3b
 ```
 
+---
+1. Item 1
+1. Item 2
+1. Item 3
+    + Item 3a
+    + Item 3b
+---
 
 ### Formato
 
@@ -61,8 +74,19 @@ _Este también se mostrará en itálica_
 __Este también se mostrará en negrita__
 
 *Puedes **combinar** ambos formatos*
+__*Incluso así*__
 ```
 
+---
+*Este texto se muestra en itálica*
+_Este también se mostrará en itálica_
+
+**Este texto se muestra en negrita**
+__Este también se mostrará en negrita__
+
+*Puedes **combinar** ambos formatos*
+__*Incluso así*__
+---
 
 ### Enlaces
 
@@ -72,15 +96,25 @@ http://github.com - automático
 [GitHub](http://github.com)
 ```
 
+---
+http://github.com - automático
+
+[GitHub](http://github.com)
+
+---
 
 ### Imágenes
 
 ```markdown
-![GitHub Logo](/images/logo.png)
+![DAW-DAW2](assets/deployment.png)
 
 Formato: ![Texto alternativo](url)
 ```
 
+---
+![DAW-DAW2](assets/deployment.png)
+
+---
 
 ### Citas
 
@@ -91,6 +125,12 @@ Como dijo Grace Hopper:
 > in the future than in the past.
 ```
 
+---
+Como dijo Grace Hopper:
+
+> I’ve always been more interested
+> in the future than in the past.
+---
 
 ### Código fuente
 
