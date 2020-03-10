@@ -1,9 +1,11 @@
 ## Despliegue de aplicaciones web
 ---
-![Despliegue de aplicaciones web](http://jamj2000.github.io/despliegueaplicacionesweb/despliegueaplicacionesweb.png)
+![Despliegue de aplicaciones web](assets/deployment.png)
+
 _2019-20 - IES Luis Vélez de Guevara - Écija - Spain_
 
 Apuntes con modificaciones realizadas por **[Julio de la Matta Cadenas](https://github.com/Kibrands)**.
+
 > _Apuntes originales: [jamj2000/jamj2000.github.io](https://github.com/jamj2000/jamj2000.github.io)_
 
 ---
